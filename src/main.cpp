@@ -9,6 +9,7 @@ using Eigen::MatrixXd;
 using Eigen::VectorXd;
 using std::string;
 using std::vector;
+using namespace std;
 
 // for convenience
 using json = nlohmann::json;
